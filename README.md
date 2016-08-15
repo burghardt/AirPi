@@ -121,7 +121,7 @@ i2cbus = 1
 altitude=40
 ```
 
-If your board version is "0" change both instances of `i2cbus = 1` to `i2cbus = 1`
+If your board version is "0" change both instances of `i2cbus = 1` to `i2cbus = 0`
 
 Press CTRL+X to exit the file, when prompted, press "y" to save the file.
 
